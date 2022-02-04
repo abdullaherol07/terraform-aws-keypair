@@ -1,6 +1,3 @@
-### This module creates a key pair
-### Please copy paste below code
-'''
 module "dev" {
     source = "../"
     region = "us-east-1"
